@@ -1,0 +1,29 @@
+---
+title: "Test_Github_Quarto"
+author: "River Mckegney"
+date: today
+format: html
+theme: darkly
+fig-cap-location: top
+
+---
+
+## Upload a Quarto document to GitHub
+
+Here I am testing creating, rendering, and pushing a Quarto doc in Rstudio to Github. 
+
+```{r}
+#| label: Code chunk exists here
+#| echo: true
+
+# Here is some code added for fun
+value <- 6*6
+
+value
+```
+
+
+## A sarr photo:
+
+![Here's a pretty plant](IMG_9414.JPG)
+
