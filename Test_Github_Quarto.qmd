@@ -1,8 +1,8 @@
 ---
-title: "Test_Github_Quarto"
+title: "Test Github Quarto"
 author: "River Mckegney"
 date: today
-format: html
+format: gfm
 theme: darkly
 fig-cap-location: top
 
