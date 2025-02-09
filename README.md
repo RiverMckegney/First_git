@@ -13,3 +13,7 @@ I will come back to how to go about working the green push arrow and blue pull a
 
 The 'pull' option or pulling changes is when you want to download/extract or bring down file changes that collaborators made (currently stored in github) and add thoes updates to your local repository in Rstudio.
 
+Starting to understand now: The difference between sending a commit vs sending a push. A commit adds the changes you made along with my message about what thoes changes are to Git (I mean Git Bash). Then after that you need to send a 'push' (by pressing the push button) to make thoes changes happen and appear on GitHub. So Git Bash is the intermediary player that I communicate with to confirm exchanges between Rstudio and GitHub.
+
+Live habitat now: The happs routine now will be pulling all changes into your local system repository (notable when using another computer), then changing stuff around in Rstudio, making a commit (frequently, early & often) to Git (it a commitment that I set, like staging a plan - stowing away backups, reviewing preps, and rigging appropriately), and atlast pushing that change to GitHub.
+
