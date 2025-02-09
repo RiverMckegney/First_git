@@ -16,6 +16,7 @@ value
 
     [1] 36
 
-## A sarr photo:
+## A plant photo:
 
-![Here’s a pretty plant](IMG_9414.JPG)
+<img src="IMG_9414.JPG" class="lightbox" style="width:40.0%"
+data-fig-align="center" alt="Here’s a pretty plant" />

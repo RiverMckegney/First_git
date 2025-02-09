@@ -23,7 +23,7 @@ value
 ```
 
 
-## A sarr photo:
+## A plant photo:
 
-![Here's a pretty plant](IMG_9414.JPG)
+![Here's a pretty plant](IMG_9414.JPG){width=40% fig-align="center" .lightbox}
 
